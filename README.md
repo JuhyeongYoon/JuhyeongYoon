@@ -7,12 +7,7 @@
           </div>
     </div>
     
+<div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Research interests </h2> <br> 
+    </div>
 
-
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={harusal2})](https://solved.ac/{harusal2})
-
-
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={harusal2}&theme=warm)
-</div>
