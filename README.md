@@ -10,6 +10,6 @@
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Research interests </h2> <br>
     <div style="margin: ; text-align: left;" "text-align: left;"> - Federated learning
-    </div> - ML/DL
+    </div> - ML/DL - Computer vision - Smart Factory
     </div>
 
