@@ -4,7 +4,7 @@
           <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">
           <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
-          </div> [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=harusal2)](https://solved.ac/harusal2/)   
+          </div>   
     </div> 
  
 <h2 class="code-line" data-line-start=4 data-line-end=5 ><a id="Backgrounds__4"></a>Backgrounds </h2>
@@ -21,4 +21,5 @@
 <p class="has-line-data" data-line-start="21" data-line-end="22"> Yoon, Juhyeong, Jun-Pyo Hong, and Jaeyoung Song. "Communication-Balancing Threshold for Event-Triggered Federated Learning." IEEE Access (2025) (https://ieeexplore.ieee.org/document/11096591).</p>
 
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=harusal2)](https://solved.ac/harusal2/) 
 
