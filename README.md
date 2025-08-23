@@ -4,9 +4,9 @@
           <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">
           <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
-          </div>
-    </div>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=harusal2)](https://solved.ac/harusal2/)    
+          </div> [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=harusal2)](https://solved.ac/harusal2/)   
+    </div> 
+ 
 <h2 class="code-line" data-line-start=4 data-line-end=5 ><a id="Backgrounds__4"></a>Backgrounds </h2>
 <p class="has-line-data" data-line-start="5" data-line-end="7">2023.03 ~ 2025.02 : Pusan National University — M.S. in Electrical and Electronic Engineering<br>
 2016.03 ~ 2022.08 : Pusan National University — B.S. in Physics, Double Major in Electronic Engineering</p>
