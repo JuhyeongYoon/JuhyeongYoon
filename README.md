@@ -15,9 +15,6 @@
 <li class="has-line-data" data-line-start="9" data-line-end="10">Federated Learning</li>
 <li class="has-line-data" data-line-start="10" data-line-end="11">Distributed Learning</li>
 <li class="has-line-data" data-line-start="11" data-line-end="12">Machine Learning / Deep Learning</li>
-<li class="has-line-data" data-line-start="12" data-line-end="13">Computer Vision</li>
-<li class="has-line-data" data-line-start="13" data-line-end="14">Smart Factory</li>
-<li class="has-line-data" data-line-start="14" data-line-end="15">Ondevice AI</li>
 <li class="has-line-data" data-line-start="15" data-line-end="16">Wireless Communication</li>
 </ul>
 <h2 class="code-line" data-line-start=19 data-line-end=20 ><a id="My_Papers_19"></a>My Papers</h2>
