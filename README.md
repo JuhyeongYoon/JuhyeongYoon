@@ -21,5 +21,6 @@
 <p class="has-line-data" data-line-start="21" data-line-end="22"> Yoon, Juhyeong, Jun-Pyo Hong, and Jaeyoung Song. "Communication-Balancing Threshold for Event-Triggered Federated Learning." IEEE Access (2025) (https://ieeexplore.ieee.org/document/11096591).</p>
 
 <h2 class="code-line" data-line-start=4 data-line-end=5 ><a id="Backgrounds__4"></a>Problem soving </h2>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=harusal2)](https://solved.ac/harusal2/) 
 
